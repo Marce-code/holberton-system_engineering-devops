@@ -1,2 +1,2 @@
 #!/bin/bash
-less man
+man wc cat 17 78 519 101-man_holberton
